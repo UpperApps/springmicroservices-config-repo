@@ -18,6 +18,6 @@ management:
       enabled: false
 info:
   app:
-    name: '@project.name@'
+    name: 'search-service'
     version: '@project.version@'
     description: '@project.description@'
